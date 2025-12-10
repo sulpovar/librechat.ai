@@ -1,12 +1,7 @@
 {
-  "name": "LibreChat",
+  "name": "librechat",
   "version": "v0.8.1-rc2",
   "description": "",
-  "workspaces": [
-    "api",
-    "client",
-    "packages/*"
-  ],
   "scripts": {
     "update": "node config/update.js",
     "add-balance": "node config/add-balance.js",
